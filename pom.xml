@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/<GITHUB_OWNER>/<REPOSITORY_NAME></url>
+            <url>https://maven.pkg.github.com/sandrasandrasathish/maven-build-and-push-to-github-packages</url>
         </repository>
     </distributionManagement>
 
